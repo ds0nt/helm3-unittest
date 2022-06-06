@@ -73,8 +73,7 @@ Check [DOCUMENT](./DOCUMENT.md) for more details about writing tests.
 $ helm unittest [flags] CHART [...]
 ```
 
-This renders your charts locally (without tiller) and runs tests
-defined in test suite files.
+This renders your charts locally and runs tests defined in test suite files.
 
 ### Flags
 
